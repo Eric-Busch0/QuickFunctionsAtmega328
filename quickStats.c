@@ -43,7 +43,7 @@ float min(float arr, int n)
 	{
 		if(arr[i] < mn)
 		{
-
+			mn = arr[i]
 		}
 	}
 
